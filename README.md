@@ -19,7 +19,7 @@ https://www.youtube.com/watch?v=vQkZ0dgmi9I
 
 * * *
 #### ⚪ Getting Strated
-* ##### Prerequisites: npm, node, MongoDB Connection URL
+* ##### Prerequisites: npm, node, MongoDB Connection URL, Kakao Client ID, Google Oauth Client ID
 * ##### Installation & Execution
 ```bash
 git clone https://github.com/MpqM/NodeJS_Auth.git
@@ -31,8 +31,15 @@ browser: http://localhost:3000/ppauth/
 
 * * *
 #### ⚪ Description 
-* ##### 유저, 인증 모듈, 가드
- <img src="https://user-images.githubusercontent.com/79093184/260433330-d974fbbb-3cd1-4a03-b63f-ec30f30d04ef.png"/>
+* ##### 인증 및 인가 절차 기본 흐름
+ <img src="https://blog.kakaocdn.net/dn/bIVwZi/btstwID5LcT/AKkLfvymvYKiLwenbWiEKk/img.jpg"/>
+● 1: 클라이언트는 유저 정보 요청을 서버에게 전송
+● 2: 서버는 유저정보를 포함하는 토큰을 생성
+● 3: 응답으로 클라이언트에 HTTP Response Header에 토큰을 올려서 전송
+● 4: 클라이언트는 토큰을 로컬스토리지, 쿠키 등 다양한 장소에 저장
+● 5: 이후 요청을 보낼때 토큰과 함께 전송
+● 6: 서버 토큰을 복호화해서 유저 정보를 알게 됨
+
  
 * ##### 페스포트와 세션을 사용한 인증 과정
  <img src="https://user-images.githubusercontent.com/79093184/260433333-0efdf916-ba4b-4483-8176-65ac26e6ae63.png"/>

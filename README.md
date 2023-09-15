@@ -1,14 +1,16 @@
 # Auth
 #### ⚪ About Project
-* ##### NodeJS로 jwt, 쿠키 세션, Oauth를 이용해 인증기능 구현
-* ##### 간단한 jwt 엑세스토큰, 리프레시토큰 사용 인증 구현, 프론트엔드는 없음, postman collection 참고
-* ##### 쿠키 세션과 PassPort(Strategy, Session Serializer, deSerializer)를 사용한 인증 구현
-* ##### OAuth2.0을 활용한 구글, 카카오 로그인 인증, MongoDB를 이용해 사용자 모델을 정의하고 Oauth과 쿠키세션관련 사용자 정보 저장
+* ##### NodeJS로 jwt, 쿠키 세션, OAuth2.0을 활용한 구글, 카카오 로그인 인증기능 구현
+* ##### 간단한 jwt 엑세스토큰, 리프레시토큰 사용 인증 구현, postman collection 참고
+* ##### 쿠키 세션과 PassPort(Strategy, Session Serializer, deSerializer)를 사용한 인증 구현, 프론트엔드 있음
+* ##### jwt, passport를 사용해 로그인 인증 후 인증 받은 사용자 만이 리소스에 접근하게 하는 Middleware 구현
+* ##### MongoDB를 이용해 사용자 모델을 정의하고 Oauth과 쿠키세션관련 사용자 정보 저장, MVC패턴
 
 * * *
 #### ⚪ Usage
 https://www.youtube.com/watch?v=vQkZ0dgmi9I
 ![image](https://user-images.githubusercontent.com/79093184/268300607-ec6350cc-e75c-4796-b58d-3ce3a4182c51.png)
+
 * * *
 #### ⚪ Built With
 * ##### template engine
@@ -48,6 +50,7 @@ browser: http://localhost:3000/ppauth/
 * * *
 #### ⚪ Roadmap & Realization & Study
 * ##### 간단한 jwt인증, 쿠키세션과 PassPort를 이용한 인증 과정, MVC패턴 숙지
+* ##### 타입스크립트를 사용안한 MongoDB 모델 정의를 처음 해봄
 * ##### PassPort의 Strategy local, OAuth2.0을 활용한 구글, 카카오, ID/PW 로그인 인증
 * * *
 #### ⚪ Writer

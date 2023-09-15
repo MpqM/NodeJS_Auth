@@ -17,33 +17,17 @@ https://www.youtube.com/watch?v=vQkZ0dgmi9I
 * ##### backend
 <img src ="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/> <img alt="express" src ="https://img.shields.io/badge/express-339933.svg?&style=for-the-badge&logo=express&logoColor=white"/> <img alt="nodedotjs" src ="https://img.shields.io/badge/nodejs-339933.svg?&style=for-the-badge&logo=nodedotjs&logoColor=white"/> <img alt="mongodb" src ="https://img.shields.io/badge/mongodb-339933.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
 
-
 * * *
 #### ⚪ Getting Strated
-* ##### Prerequisites: npm, node, sqlite viewr vscode extension
+* ##### Prerequisites: npm, node, MongoDB Connection URL
+* ##### Installation & Execution
 ```bash
-git clone https://github.com/MpqM/NestJS_Auth.git
-cd {project}
+git clone https://github.com/MpqM/NodeJS_Auth.git
+# Change the .env with yours
 npm install
-# development
-npm run start
-# watch mode
-npm run start:dev
-# production mode
-npm run start:prod
-# unit tests
-npm run test
-# e2e tests
-npm run test:e2e
-# test coverage
-npm run test:cov
+npm start
+browser: http://localhost:3000/ppauth/
 ```
-
-* ##### Test Google OAuth
-http://localhost:3000/auth/logingoogle
-
-
-http://localhost:3000/auth/testloginsession
 
 * * *
 #### ⚪ Description 
@@ -61,21 +45,19 @@ http://localhost:3000/auth/testloginsession
   <img src="https://user-images.githubusercontent.com/79093184/260433878-42222a53-f39b-44e5-a01f-acf5b0cb4c2c.png"/>
 * ##### GoogleAuthGuard의 동작 순서도
   <img src="https://user-images.githubusercontent.com/79093184/260433343-a54ea8a5-58d7-442f-8d67-446c4833c1b8.png"/>
-* ##### API테스트는 POSTMAN 파일 참조
+* ##### jwt관련 API테스트는 POSTMAN 파일 참조
+  
 * * *
 #### ⚪ Roadmap & Realization & Study
-* ##### 회원가입, 쿠키를 통한 로그인, Guard를 통한 핸들러 메서드에 전달전 검증
-* ##### 세션과 PassPort를 이용한 인증 과정
-* ##### 파이프를 통한 유효성 검증, SQLite 사용
-* ##### OAuth2.0을 활용한 구글 로그인 인증
+* ##### 간단한 jwt인증, 쿠키세션과 PassPort를 이용한 인증 과정, MVC패턴 숙지
+* ##### PassPort의 Strategy local, OAuth2.0을 활용한 구글, 카카오, ID/PW 로그인 인증
 * * *
 #### ⚪ Writer
 * ##### <span>okqkrwhdtjd@gmail.com
 * <a href = "https://github.com/MpqM"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/></a> <a href = "https://MpqM.tistory.com/"> <img alt="Tistory" src ="https://img.shields.io/badge/Tistory-white.svg?&style=for-the-badge"/></a>
-
 * * *
 #### ⚪ Contributing
-* ##### Fork the Project https://github.com/MpqM/NestJS_Auth
+* ##### Fork the Project https://github.com/MpqM/NodeJS_Auth
 * ##### Create your Feature Branch (git checkout -b feature/AmazingFeature)
 * ##### Commit your Changes (git commit -m 'Add some AmazingFeature')
 * ##### Push to the Branch (git push origin feature/AmazingFeature)

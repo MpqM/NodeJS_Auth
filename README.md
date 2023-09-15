@@ -32,7 +32,7 @@ browser: http://localhost:3000/ppauth/
 * * *
 #### ⚪ Description 
 * ##### 인증 및 인가 절차 기본 흐름
- <img src="https://blog.kakaocdn.net/dn/bIVwZi/btstwID5LcT/AKkLfvymvYKiLwenbWiEKk/img.jpg"/>
+ <img src="![image](https://github.com/MpqM/NodeJS_Auth/assets/79093184/ff4b7f4a-642a-42a8-8792-47400b99ed5c)"/>
 ● 1: 클라이언트는 유저 정보 요청을 서버에게 전송
 ● 2: 서버는 유저정보를 포함하는 토큰을 생성
 ● 3: 응답으로 클라이언트에 HTTP Response Header에 토큰을 올려서 전송

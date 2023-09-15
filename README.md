@@ -3,7 +3,7 @@
 * ##### NodeJS로 jwt, 쿠키 세션, Oauth를 이용해 인증기능 구현
 * ##### 간단한 jwt 엑세스토큰, 리프레시토큰 사용 인증 구현, 프론트엔드는 없음, postman collection 참고
 * ##### 쿠키 세션과 PassPort(Strategy, Session Serializer, deSerializer)를 사용한 인증 구현
-* ##### OAuth2.0을 활용한 구글 로그인 인증, 카카오 로그인 인증, MongoDB를 이용해 사용자 모델을 정의하고 Oauth과 쿠키세션관련 사용자 정보 저장
+* ##### OAuth2.0을 활용한 구글, 카카오 로그인 인증, MongoDB를 이용해 사용자 모델을 정의하고 Oauth과 쿠키세션관련 사용자 정보 저장
 
 * * *
 #### ⚪ Usage

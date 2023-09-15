@@ -31,28 +31,15 @@ browser: http://localhost:3000/ppauth/
 
 * * *
 #### ⚪ Description 
-* ##### 인증 및 인가 절차 기본 흐름
- <img src="![image](https://github.com/MpqM/NodeJS_Auth/assets/79093184/ff4b7f4a-642a-42a8-8792-47400b99ed5c)"/>
-● 1: 클라이언트는 유저 정보 요청을 서버에게 전송
-● 2: 서버는 유저정보를 포함하는 토큰을 생성
-● 3: 응답으로 클라이언트에 HTTP Response Header에 토큰을 올려서 전송
-● 4: 클라이언트는 토큰을 로컬스토리지, 쿠키 등 다양한 장소에 저장
-● 5: 이후 요청을 보낼때 토큰과 함께 전송
-● 6: 서버 토큰을 복호화해서 유저 정보를 알게 됨
-
- 
-* ##### 페스포트와 세션을 사용한 인증 과정
- <img src="https://user-images.githubusercontent.com/79093184/260433333-0efdf916-ba4b-4483-8176-65ac26e6ae63.png"/>
- 
-* ##### 로그인부터 세션 저장까지 순서도
-  <img src="https://user-images.githubusercontent.com/79093184/260433337-3906a4b4-1789-469d-876e-5776a8e07f53.png"/>
-* ##### OAuth 프로토콜 흐름, 엑세스 토큰 만료시 리프레시 토큰을 통한 재발행
-  <img src="https://user-images.githubusercontent.com/79093184/260433871-291c3293-a00f-44fc-b0ff-dbf7ece1eb3c.png"/>
-* ##### 구글 OAuth 구현 순서
-  <img src="https://user-images.githubusercontent.com/79093184/260433878-42222a53-f39b-44e5-a01f-acf5b0cb4c2c.png"/>
-* ##### GoogleAuthGuard의 동작 순서도
-  <img src="https://user-images.githubusercontent.com/79093184/260433343-a54ea8a5-58d7-442f-8d67-446c4833c1b8.png"/>
-* ##### jwt관련 API테스트는 POSTMAN 파일 참조
+* ##### JWT기반 인증 인가 과정
+ <img src="https://user-images.githubusercontent.com/79093184/268309865-786a47dc-375f-4eae-bf8e-1834a2a7002c.png"/>
+* ##### 엑세스, 리프레시 토큰 흐름
+  <img src="https://user-images.githubusercontent.com/79093184/268310086-41f36848-0fa9-4de2-b80b-019cb2eacc1b.png"/>
+* ##### Passport를 이용한 쿠키 세션 과정
+  <img src="https://user-images.githubusercontent.com/79093184/268310220-7ddbc695-f9a4-4231-88bd-53142ffda367.png"/>
+* ##### Oauth 흐름
+  <img src="https://user-images.githubusercontent.com/79093184/268310369-5082e1e3-b6f9-4847-a262-fdf04b637dcf.png"/>
+* ##### jwt관련 API테스트는 POSTMAN 파일 참조, 자세한 내용은 소스코드 주석 참조
   
 * * *
 #### ⚪ Roadmap & Realization & Study

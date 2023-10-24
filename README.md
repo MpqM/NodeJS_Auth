@@ -1,7 +1,7 @@
 # Auth
 #### ⚪ About Project
-* ##### NodeJS로 jwt, 쿠키 세션, OAuth2.0을 활용한 구글, 카카오 로그인 인증기능 구현
-* ##### 간단한 jwt 엑세스토큰, 리프레시토큰 사용 인증 구현, postman collection 참고
+* jwt,쿠키 세션, OAuth2.0을 활용한 구글, 카카오 로그인 인증기능 구현
+* ##### jwt 엑세스토큰, 리프레시토큰 사용 인증 구현, postman으로 테스트
 * ##### 쿠키 세션과 PassPort(Strategy, Session Serializer, deSerializer)를 사용한 인증 구현, 프론트엔드 있음
 * ##### jwt, passport를 사용해 로그인 인증 후 인증 받은 사용자 만이 리소스에 접근하게 하는 Middleware 구현
 * ##### MongoDB를 이용해 사용자 모델을 정의하고 Oauth과 쿠키세션관련 사용자 정보 저장, MVC패턴

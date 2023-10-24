@@ -38,12 +38,16 @@ test: http://localhost:3000/ppauth/
 ⚪ **Description**
 * JWT기반 인증 인가
 <img src="https://user-images.githubusercontent.com/79093184/268309865-786a47dc-375f-4eae-bf8e-1834a2a7002c.png"/>
+
 * JWT 엑세스, 리프레시 토큰
 <img src="https://user-images.githubusercontent.com/79093184/268310086-41f36848-0fa9-4de2-b80b-019cb2eacc1b.png"/>
+
 * Passport를 이용한 쿠키 세션
 <img src="https://user-images.githubusercontent.com/79093184/268310220-7ddbc695-f9a4-4231-88bd-53142ffda367.png"/>
+
 * Oauth
 <img src="https://user-images.githubusercontent.com/79093184/268310369-5082e1e3-b6f9-4847-a262-fdf04b637dcf.png"/>
+
 * 소스코드 주석, Postman 참조 jwt관련 API테스트는 POSTMAN 파일 참조, 자세한 내용은 소스코드 주석 참조
 
 * * *

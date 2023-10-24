@@ -5,15 +5,13 @@
  * jwt, passport를 통해 인증받은 사용자 만이 리소스에 접근하게 하는 미들웨어 구현
  * Mongoose를 이용해 Oauth ID 및 사용자 정보 모델, P/W 함수(저장 전 해싱, 비교) 정의
 * * *
+
 #### ⚪ Usage
-<div align="center">
 [NodeJS_Auth](https://www.youtube.com/watch?v=vQkZ0dgmi9I)
 ![image](https://user-images.githubusercontent.com/79093184/268300607-ec6350cc-e75c-4796-b58d-3ce3a4182c51.png)
-</div>
-
-
 * * *
-#### ⚪ Built With
+
+⚪ **Built With**
 * ##### template engine
 <img src ="https://img.shields.io/badge/ejs-F7DF1E.svg?&style=for-the-badge&logo=ejs&logoColor=white"/>
 

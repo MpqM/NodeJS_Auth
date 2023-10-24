@@ -4,6 +4,7 @@
  * 쿠키세션 + PassPort(Strategy, Session Serializer, deSerializer)를 사용한 인증 구현
  * jwt, passport를 통해 인증받은 사용자 만이 리소스에 접근하게 하는 미들웨어 구현
  * Mongoose를 이용해 Oauth ID 및 사용자 정보 모델, P/W 함수(저장 전 해싱, 비교) 정의
+   
 * * *
 
 ⚪ **Running Screen, Video**
@@ -11,6 +12,7 @@
   <a href="https://www.youtube.com/watch?v=vQkZ0dgmi9I"><img src ="https://img.shields.io/badge/youtube-FF0000.svg?&style=for-the-badge&logo=#FF0000&logoColor=white"/></a></br>
   <img width="700" height="500" src="https://user-images.githubusercontent.com/79093184/268300607-ec6350cc-e75c-4796-b58d-3ce3a4182c51.png">
 </p>
+
 * * *
 
 ⚪ **Built With**
@@ -28,6 +30,7 @@ npm install
 npm start
 test: http://localhost:3000/ppauth/
 ```
+
 * * *
 
 ⚪ **Description**
@@ -40,6 +43,7 @@ test: http://localhost:3000/ppauth/
 * Oauth
 <p align ="center"><img src="https://user-images.githubusercontent.com/79093184/268310369-5082e1e3-b6f9-4847-a262-fdf04b637dcf.png"/></p>
 * 소스코드 주석, Postman 참조 jwt관련 API테스트는 POSTMAN 파일 참조, 자세한 내용은 소스코드 주석 참조
+
 * * *
 
 ⚪ **Writer**
@@ -48,4 +52,5 @@ test: http://localhost:3000/ppauth/
   <a href = "https://github.com/MpqM"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/></a>
   <a href = "https://MpqM.tistory.com/"> <img alt="Tistory" src ="https://img.shields.io/badge/Tistory-white.svg?&style=for-the-badge"/></a>
 </p>
+
 * * *

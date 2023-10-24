@@ -1,9 +1,9 @@
 # Auth
 ⚪ **About Project**
- * jwt 엑세스토큰, 리프레시토큰 사용 인증 구현
- * 쿠키세션 + PassPort(Strategy, Session Serializer, deSerializer)를 사용한 인증 구현
- * jwt, passport를 통해 인증받은 사용자 만이 리소스에 접근하게 하는 미들웨어 구현
- * Mongoose를 이용해 Oauth ID 및 사용자 정보 모델, P/W 함수(저장 전 해싱, 비교) 정의
+  * jwt 엑세스토큰, 리프레시토큰 사용 인증 구현
+  * 쿠키세션 + PassPort(Strategy, Session Serializer, deSerializer)를 사용한 인증 구현
+  * jwt, passport를 통해 인증받은 사용자 만이 리소스에 접근하게 하는 미들웨어 구현
+  * Mongoose를 이용해 Oauth ID 및 사용자 정보 모델, P/W 함수(저장 전 해싱, 비교) 정의
 
 * * *
 

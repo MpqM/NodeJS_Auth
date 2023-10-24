@@ -1,5 +1,5 @@
 # Auth
-⚪ **About Project / Description**
+⚪ **About Project**
  * jwt 엑세스토큰, 리프레시토큰 사용 인증 구현
  * 쿠키세션 + PassPort(Strategy, Session Serializer, deSerializer)를 사용한 인증 구현
  * jwt, passport를 통해 인증받은 사용자 만이 리소스에 접근하게 하는 미들웨어 구현
@@ -32,20 +32,20 @@ test: http://localhost:3000/ppauth/
 
 ⚪ **Description**
 * JWT기반 인증 인가
-<p align ="center"><img src="https://user-images.githubusercontent.com/79093184/268309865-786a47dc-375f-4eae-bf8e-1834a2a7002c.png"/> </p>
+<p align ="center"><img src="https://user-images.githubusercontent.com/79093184/268309865-786a47dc-375f-4eae-bf8e-1834a2a7002c.png"/></p>
 * JWT 엑세스, 리프레시 토큰
-  <img src="https://user-images.githubusercontent.com/79093184/268310086-41f36848-0fa9-4de2-b80b-019cb2eacc1b.png"/>
+<p align ="center"><img src="https://user-images.githubusercontent.com/79093184/268310086-41f36848-0fa9-4de2-b80b-019cb2eacc1b.png"/></p>
 * Passport를 이용한 쿠키 세션
-  <img src="https://user-images.githubusercontent.com/79093184/268310220-7ddbc695-f9a4-4231-88bd-53142ffda367.png"/>
+<p align ="center"><img src="https://user-images.githubusercontent.com/79093184/268310220-7ddbc695-f9a4-4231-88bd-53142ffda367.png"/></p>
 * Oauth
-  <img src="https://user-images.githubusercontent.com/79093184/268310369-5082e1e3-b6f9-4847-a262-fdf04b637dcf.png"/>
+<p align ="center"><img src="https://user-images.githubusercontent.com/79093184/268310369-5082e1e3-b6f9-4847-a262-fdf04b637dcf.png"/></p>
 * 소스코드 주석, Postman 참조 jwt관련 API테스트는 POSTMAN 파일 참조, 자세한 내용은 소스코드 주석 참조
 
 * * *
 ⚪ **Writer**
 okqkrwhdtjd@gmail.com
 
-<a href = "https://github.com/MpqM"><img alt="youtube" src ="https://img.shields.io/badge/youtube-#FF0000.svg?&style=for-the-badge&logo=#FF0000&logoColor=white"/></a>
+<a href = "https://github.com/MpqM"><img alt="youtube" src ="https://img.shields.io/badge/youtube-FF0000.svg?&style=for-the-badge&logo=#FF0000&logoColor=white"/></a>
 <a href = "https://github.com/MpqM"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/></a>
 <a href = "https://MpqM.tistory.com/"> <img alt="Tistory" src ="https://img.shields.io/badge/Tistory-white.svg?&style=for-the-badge"/></a>
 * * *

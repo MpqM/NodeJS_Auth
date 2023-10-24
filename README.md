@@ -44,7 +44,7 @@ test: http://localhost:3000/ppauth/
 * Passport를 이용한 쿠키 세션
   <img src="https://user-images.githubusercontent.com/79093184/268310220-7ddbc695-f9a4-4231-88bd-53142ffda367.png"/>
 * Oauth
-  <img src="https://user-images.githubusercontent.com/79093184/268310369-5082e1e3-b6f9-4847-a262-fdf04b637dcf.png"/>
+<img src="https://user-images.githubusercontent.com/79093184/268310369-5082e1e3-b6f9-4847-a262-fdf04b637dcf.png"/>
 
 * * *
 

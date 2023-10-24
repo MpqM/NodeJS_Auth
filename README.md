@@ -8,7 +8,7 @@
 
 ⚪ **Usage**
 <p align ="center">
-  <span>running video</span><a href="https://www.youtube.com/watch?v=vQkZ0dgmi9I"><img alt="youtube" src ="https://img.shields.io/badge/youtube-FF0000.svg?&style=for-the-badge&logo=#FF0000&logoColor=white"/></a>
+  <span>running video<a href="https://www.youtube.com/watch?v=vQkZ0dgmi9I"><img alt="youtube" src ="https://img.shields.io/badge/youtube-FF0000.svg?&style=for-the-badge&logo=#FF0000&logoColor=white"/></a></span>
   <img width="700" height="500" src="https://user-images.githubusercontent.com/79093184/268300607-ec6350cc-e75c-4796-b58d-3ce3a4182c51.png"></a>
 </p>
 * * *

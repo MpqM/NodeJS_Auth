@@ -6,7 +6,7 @@
  * Mongoose를 이용해 Oauth ID 및 사용자 정보 모델, P/W 함수(저장 전 해싱, 비교) 정의
 * * *
 
-#### ⚪ Usage
+⚪ **Usage**
 [NodeJS_Auth](https://www.youtube.com/watch?v=vQkZ0dgmi9I)
 ![image](https://user-images.githubusercontent.com/79093184/268300607-ec6350cc-e75c-4796-b58d-3ce3a4182c51.png)
 * * *

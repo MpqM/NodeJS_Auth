@@ -52,6 +52,6 @@ test: http://localhost:3000/ppauth/
 tistory
 * okqkrwhdtjd@gmail.com
 * <a href = "https://github.com/MpqM"><img src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/></a>
-* <a href = "https://MpqM.tistory.com/"> <img src ="https://img.shields.io/badge/Tistory-000000.svg?&style=for-the-badge&logo=Tistroy&logoColor=white"/></a>
+* <a href = "https://MpqM.tistory.com/"> <img src ="https://img.shields.io/badge/Tistory-000000.svg?&style=for-the-badge&logo=Tistory&logoColor=white"/></a>
 
 * * *

@@ -8,7 +8,8 @@
 
 ⚪ **Running Screen, Video**
 <p align ="center">
-  <a href="https://www.youtube.com/watch?v=vQkZ0dgmi9I"><img src ="https://img.shields.io/badge/youtube-FF0000.svg?&style=for-the-badge&logo=#FF0000&logoColor=white"/></a></br>
+  <a href="https://www.youtube.com/watch?v=vQkZ0dgmi9I"><img src ="https://img.shields.io/badge/youtube-FF0000.svg?&style=for-the-badge&logo=#FF0000&logoColor=white"/></a>
+  </br>
   <img width="700" height="500" src="https://user-images.githubusercontent.com/79093184/268300607-ec6350cc-e75c-4796-b58d-3ce3a4182c51.png"/>
 </p>
 * * *
@@ -43,10 +44,8 @@ test: http://localhost:3000/ppauth/
 * * *
 
 ⚪ **Writer**
-<p align ="center">
-  okqkrwhdtjd@gmail.com
-  <a href = "https://github.com/MpqM"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/></a>
-  <a href = "https://MpqM.tistory.com/"> <img alt="Tistory" src ="https://img.shields.io/badge/Tistory-white.svg?&style=for-the-badge"/></a>
-</p>
-
+okqkrwhdtjd@gmail.com
+<a href = "https://github.com/MpqM"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/></a>
+<a href = "https://MpqM.tistory.com/"> <img alt="Tistory" src ="https://img.shields.io/badge/Tistory-white.svg?&style=for-the-badge"/></a>
+  
 * * *

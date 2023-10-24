@@ -11,7 +11,6 @@
   https://www.youtube.com/watch?v=vQkZ0dgmi9I</br>
   <img width="700" height="500" src="https://user-images.githubusercontent.com/79093184/268300607-ec6350cc-e75c-4796-b58d-3ce3a4182c51.png"></a>
 </p>
-
 * * *
 
 ⚪ **Built With**
@@ -20,16 +19,15 @@
 </p>
 
 * * *
-#### ⚪ Getting Strated
-* ##### Prerequisites: npm, node, MongoDB Connection URL, Kakao Client ID, Google Oauth Client ID
-* ##### Installation & Execution
-```bash
-git clone https://github.com/MpqM/NodeJS_Auth.git
-# Change the .env with yours
-npm install
-npm start
-browser: http://localhost:3000/ppauth/
-```
+⚪ **Getting Strated**
+ * npm, node, MongoDB Connection URI, Kakao Client ID, Google Oauth Client ID
+  ```bash
+  git clone https://github.com/MpqM/NodeJS_Auth.git
+  # Change the .env with yours
+  npm install
+  npm start
+  browser: http://localhost:3000/ppauth/
+  ```
 
 * * *
 #### ⚪ Description 

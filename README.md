@@ -13,12 +13,14 @@
   </br>
   <img width="700" height="500" src="https://user-images.githubusercontent.com/79093184/268300607-ec6350cc-e75c-4796-b58d-3ce3a4182c51.png"/>
 </p>
+
 * * *
 
 ⚪ **Built With**
 <p align ="center">
   <img src ="https://img.shields.io/badge/ejs-F7DF1E.svg?&style=for-the-badge&logo=ejs&logoColor=white"/> <img src ="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/> <img src ="https://img.shields.io/badge/express-339933.svg?&style=for-the-badge&logo=express&logoColor=white"/> <img src ="https://img.shields.io/badge/nodejs-339933.svg?&style=for-the-badge&logo=nodedotjs&logoColor=white"/> <img src ="https://img.shields.io/badge/mongodb-339933.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
+
 * * *
 
 ⚪ **Getting Strated**
@@ -31,6 +33,7 @@ npm start
 test: http://localhost:3000/ppauth/
 ```
 소스코드 주석, Postman 참조 jwt관련 API테스트는 POSTMAN 파일 참조, 자세한 내용은 소스코드 주석 참조
+
 * * *
 
 ⚪ **Description**

@@ -51,9 +51,8 @@ browser: http://localhost:3000/ppauth/
   
 * * *
 #### ⚪ Roadmap & Realization & Study
-* ##### 간단한 jwt인증, 쿠키세션과 PassPort를 이용한 인증 과정, MVC패턴 숙지
+* ##### 간단한 jwt인증, 쿠키세션과 PassPort를 이용한 인증 과정, 프로젝트 디렉토리 MVC 패턴 적용
 * ##### 타입스크립트를 사용안한 MongoDB 모델 정의를 처음 해봄
-* ##### PassPort의 Strategy local, OAuth2.0을 활용한 구글, 카카오, ID/PW 로그인 인증
 * * *
 #### ⚪ Writer
 * ##### <span>okqkrwhdtjd@gmail.com

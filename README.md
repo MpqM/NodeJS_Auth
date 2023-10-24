@@ -38,12 +38,10 @@
 * Passport를 이용한 쿠키 세션
 <p align ="center"><img src="https://user-images.githubusercontent.com/79093184/268310220-7ddbc695-f9a4-4231-88bd-53142ffda367.png"/></p>
 
-* Oauth
+* Oauth 인증 흐름
 <p align ="center"><img src="https://user-images.githubusercontent.com/79093184/268310369-5082e1e3-b6f9-4847-a262-fdf04b637dcf.png"/></p>
 
 ⚪ **Writer**
-tistory
-* okqkrwhdtjd@gmail.com
+* <img src ="https://img.shields.io/badge/tistory-000000.svg?&style=for-the-badge&logo=tistory&logoColor=white"/></a>
 * <a href = "https://github.com/MpqM"><img src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/></a>
 * <a href = "https://MpqM.tistory.com/"> <img src ="https://img.shields.io/badge/Tistory-000000.svg?&style=for-the-badge&logo=Tistory&logoColor=white"/></a>
-* * *

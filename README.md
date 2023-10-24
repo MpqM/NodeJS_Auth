@@ -20,14 +20,16 @@
 
 * * *
 ⚪ **Getting Strated**
- * npm, node, MongoDB Connection URI, Kakao Client ID, Google Oauth Client ID
-  ```bash
-  git clone https://github.com/MpqM/NodeJS_Auth.git
-  # Change the .env with yours
-  npm install
-  npm start
-  browser: http://localhost:3000/ppauth/
-  ```
+```
+npm, node, MongoDB Connection URI, Kakao Client ID, Google Oauth Client ID
+```
+```bash
+git clone https://github.com/MpqM/NodeJS_Auth.git
+# Change the .env with yours
+npm install
+npm start
+browser: http://localhost:3000/ppauth/
+```
 
 * * *
 #### ⚪ Description 

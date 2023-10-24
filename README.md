@@ -8,7 +8,7 @@
 
 ⚪ **Usage**
 <p align ="center">
-  [NodeJS_Auth](https://www.youtube.com/watch?v=vQkZ0dgmi9I)
+  https://www.youtube.com/watch?v=vQkZ0dgmi9I</br>
   <img width="700" height="370" src="https://user-images.githubusercontent.com/79093184/268300607-ec6350cc-e75c-4796-b58d-3ce3a4182c51.png"></a>
 </p>
 

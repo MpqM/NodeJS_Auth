@@ -24,16 +24,15 @@
 * * *
 
 ⚪ **Getting Strated**
-```bash
-npm, node, MongoDB Connection URI, Kakao Client ID, Google Oauth Client ID
-git clone https://github.com/MpqM/NodeJS_Auth.git
-# Change the .env with yours
-npm install
-npm start
-test: http://localhost:3000/ppauth/
-```
-소스코드 주석, Postman 참조 jwt관련 API테스트는 POSTMAN 파일 참조, 자세한 내용은 소스코드 주석 참조
-
+  ```bash
+  npm, node, MongoDB Connection URI, Kakao Client ID, Google Oauth Client ID
+  git clone https://github.com/MpqM/NodeJS_Auth.git
+  # Change the .env with yours
+  npm install
+  npm start
+  test: http://localhost:3000/ppauth/
+  소스코드 주석, Postman 참조
+  ```
 * * *
 
 ⚪ **Description**

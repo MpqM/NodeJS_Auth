@@ -8,7 +8,7 @@
 * * *
 #### ⚪ Usage
 <div align="center">
-  https://www.youtube.com/watch?v=vQkZ0dgmi9I
+[NodeJS_Auth](https://www.youtube.com/watch?v=vQkZ0dgmi9I)
 ![image](https://user-images.githubusercontent.com/79093184/268300607-ec6350cc-e75c-4796-b58d-3ce3a4182c51.png)
 </div>
 

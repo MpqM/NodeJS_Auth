@@ -4,7 +4,6 @@
  * 쿠키세션 + PassPort(Strategy, Session Serializer, deSerializer)를 사용한 인증 구현
  * jwt, passport를 통해 인증받은 사용자 만이 리소스에 접근하게 하는 미들웨어 구현
  * Mongoose를 이용해 Oauth ID 및 사용자 정보 모델, P/W 함수(저장 전 해싱, 비교) 정의
- * 
 * * *
 
 ⚪ **Running Screen, Video**
@@ -36,15 +35,13 @@ test: http://localhost:3000/ppauth/
 * * *
 
 ⚪ **Description**
+* 
 * JWT기반 인증 인가
 <img src="https://user-images.githubusercontent.com/79093184/268309865-786a47dc-375f-4eae-bf8e-1834a2a7002c.png"/>
-
 * JWT 엑세스, 리프레시 토큰
 <img src="https://user-images.githubusercontent.com/79093184/268310086-41f36848-0fa9-4de2-b80b-019cb2eacc1b.png"/>
-
 * Passport를 이용한 쿠키 세션
 <img src="https://user-images.githubusercontent.com/79093184/268310220-7ddbc695-f9a4-4231-88bd-53142ffda367.png"/>
-
 * Oauth
 <img src="https://user-images.githubusercontent.com/79093184/268310369-5082e1e3-b6f9-4847-a262-fdf04b637dcf.png"/>
 

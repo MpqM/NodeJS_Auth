@@ -7,7 +7,7 @@
 
 - - -
 
-⚪ **Running Screen, Video**
+#### ⚪ Running Screen, Video
 <p align ="center">
 <a href="https://www.youtube.com/watch?v=vQkZ0dgmi9I"><img src ="https://img.shields.io/badge/youtube-FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </br>
@@ -16,14 +16,14 @@
 
 - - -
 
-⚪ **Built With**
+#### ⚪ Built With
 <p align ="center">
   <img src ="https://img.shields.io/badge/ejs-F7DF1E.svg?&style=for-the-badge&logo=ejs&logoColor=white"/> <img src ="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/> <img src ="https://img.shields.io/badge/express-339933.svg?&style=for-the-badge&logo=express&logoColor=white"/> <img src ="https://img.shields.io/badge/nodejs-339933.svg?&style=for-the-badge&logo=nodedotjs&logoColor=white"/> <img src ="https://img.shields.io/badge/mongodb-339933.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
 - - -
 
-⚪ **Getting Started**
+#### ⚪ Getting Started
   ```bash
   npm, node, MongoDB Connection URI, Kakao Client ID, Google Oauth Client ID
   git clone https://github.com/MpqM/NodeJS_Auth.git
@@ -36,7 +36,7 @@
 
 - - -
 
-⚪ **Description**
+#### ⚪ Description
    * jwt 기반 인증 인가
      <p align ="center"><img src="https://user-images.githubusercontent.com/79093184/268309865-786a47dc-375f-4eae-bf8e-1834a2a7002c.png"/></p>
    * jwt 엑세스, 리프레시 토큰
@@ -48,7 +48,7 @@
 
 - - -
 
-⚪ **Writer**
+#### ⚪ Writer
 <p align ="center">
   <img src ="https://img.shields.io/badge/gmail-EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href = "https://github.com/MpqM"><img src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/></a> <a href = "https://MpqM.tistory.com/"> <img src ="https://img.shields.io/badge/tistory-000000.svg?&style=for-the-badge&logo=Tistory&logoColor=white"/></a>
 </p>

@@ -31,10 +31,10 @@
 ⚪ **Description**
 * JWT기반 인증 인가
 
-<p align ="center"><img width="700" height="500" src="https://user-images.githubusercontent.com/79093184/268309865-786a47dc-375f-4eae-bf8e-1834a2a7002c.png"/></p>
+<p align ="center"><img src="https://user-images.githubusercontent.com/79093184/268309865-786a47dc-375f-4eae-bf8e-1834a2a7002c.png"/></p>
 
 * JWT 엑세스, 리프레시 토큰
-<p align ="center"><img width="700" height="500" src="https://user-images.githubusercontent.com/79093184/268310086-41f36848-0fa9-4de2-b80b-019cb2eacc1b.png"/></p>
+<p align ="center"><img src="https://user-images.githubusercontent.com/79093184/268310086-41f36848-0fa9-4de2-b80b-019cb2eacc1b.png"/></p>
 
 * Passport를 이용한 쿠키 세션
 <img src="https://user-images.githubusercontent.com/79093184/268310220-7ddbc695-f9a4-4231-88bd-53142ffda367.png"/>

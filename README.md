@@ -25,13 +25,14 @@
 
 #### ⚪ Getting Started
   ```bash
-  npm, node, MongoDB Connection URI, Kakao Client ID, Google Oauth Client ID
+  # prerequisites: npm, node, MongoDB Connection URI, Kakao Client ID, Google Oauth Client ID
+  # execution
   git clone https://github.com/MpqM/NodeJS_Auth.git
   # Change the .env with yours
   npm install
   npm start
-  test: http://localhost:3000/ppauth/
-  소스코드 주석, Postman 참조
+  # test: http://localhost:3000/ppauth/
+  # 소스코드 주석, Postman 참조
   ```
 
 - - -

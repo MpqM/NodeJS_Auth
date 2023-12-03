@@ -1,4 +1,4 @@
-# AuthServer
+# NodeJS-Auth_Server
 #### ⚪ About Project
 * ##### jwt 엑세스토큰, 리프레시토큰 사용 인증 구현
 * ##### 쿠키세션 + PassPort(Strategy, Session Serializer, deSerializer)를 사용한 인증 구현
